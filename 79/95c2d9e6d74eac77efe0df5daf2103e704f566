@@ -1,0 +1,1023 @@
+.agents/references/components.md
+  s_8ab5e11356c463::t_6d3fb98b015a1b 85
+.agents/skills/contributing/references/choosing-components.md
+  s_8ab5e11356c463::t_6a7c3bce32a65a 61
+.agents/skills/contributing/references/reviewing-docs.md
+  s_8ab5e11356c463::t_3ba7a81c1c3ba7 155
+.agents/skills/contributing/references/writing-docs.md
+  s_8ab5e11356c463::t_9a48c7c6f03651 45
+.flue/.agents/skills/rebase-conflict/SKILL.md
+  s_8ab5e11356c463::t_b6557cda90656d 2-4,6,8,10,12,14,16,18,20,22,24-30,32,34,36,38-41,43,45-48,50,52,54,56,58,60-71,73-76,78,80-82
+.flue/.agents/skills/style-guide-review/reference/components/wrangler-config.md
+  s_8ab5e11356c463::t_64f308815cf0ef 10,19-23
+.flue/AGENTS.md
+  s_8ab5e11356c463::t_4ec7a1758bb875 25,45,52,70,88-94,119-124
+.flue/lib/code-review-inproc.test.ts
+  s_8ab5e11356c463::t_6b72ea51781d4e 1-27,29-35,37-45,47-56,58-72,74-82,84-90,92-100,102-108,110-135,137,139,141-150,153-156,158-161,163-166,168-171,173-181,183,185-194,198-213,215,217-223,225-233,235-237,239-240,242-244,246-247,249-269,272-283,286-292,294-301,303-310,312-320,322-329,331-346,348-352
+.flue/lib/code-review-render.test.ts
+  s_8ab5e11356c463::t_574d9f5f0ec266 1-29,31-34,39-75,79-81,85-87,91-93,97-147,149-193,195-201,203-209,211-408,410-412
+.flue/lib/code-review-render.ts
+  s_8ab5e11356c463::t_524ff41698e518 20-25,350-355,373,549-551,594-773
+.flue/lib/code-review-results.test.ts
+  s_8ab5e11356c463::t_b7750fec1aeb7e 1-3,5,7-9,12-22,25-31,33-35,38-44,46-53,56-62,64-72,75-83,85-86,88-102,104,106-110,113-123,126-136,139-151
+.flue/lib/code-review-state.test.ts
+  s_8ab5e11356c463::t_a9d842302d1453 1-8,10,12-15,17-19,21-23,25-30,32-45,47,49-52,54-56,58-61,63-74,76,78-88,91-105,107-179
+.flue/lib/code-review-state.ts
+  s_8ab5e11356c463::t_42c307deaed61c 13-21
+.flue/lib/diff-fetch.ts
+  s_8ab5e11356c463::t_9904df269c49cb 2-15,17-22,24-44,47-63,66-83,86-90,93-107,110-117
+.flue/lib/github-repo-tools.ts
+  s_8ab5e11356c463::t_af915e0cc07381 367-451
+.flue/lib/github-webhook.test.ts
+  s_8ab5e11356c463::t_14bd2ab74dc067 1-159
+.flue/lib/github.ts
+  s_8ab5e11356c463::t_73a533e25b17bd 46-48,74-121,239-243,245,318-381,386-413,415-421,529-956
+.flue/lib/inproc-utils.test.ts
+  s_8ab5e11356c463::t_da08c55b28f0e6 1-2,4-6,9-11,14-19,21-22,25-29,31-32,35-42,44-45,48-55,57-58,61-68,70-71,74-78,80-82
+.flue/lib/review-specialist.ts
+  s_8ab5e11356c463::t_4ff766f943de44 29
+.flue/package.json
+  s_8ab5e11356c463::t_51fdf48adc203f 10-11,19,24-27
+.flue/pnpm-lock.yaml
+  s_8ab5e11356c463::t_0b0c961b826412 22,25-28,37,41-47,821-862,1150-1158,1181-1209,1294-1297,1370-1373,1509-1511,1528-1530,1558-1561,1824-1826,1929-1931,2050-2053,2300-2302,2323-2325,2330-2332,2366-2372,2377-2380,2385-2388,2421-2425,2444-2449,2518-2558,2572-2576,3259,3262,3267,3299,3306-3308,3310,3316,3557-3623,3781,3787,3789,3793,3795,3800,3819-3827,3836,3838,3844-3884,3953-3954,4040-4041,4142-4143,4181-4184,4202-4203,4389,4391-4392,4499-4500,4596-4599,4698-4699,5023-5024,5041-5042,5045-5046,5091-5094,5100-5101,5108-5109,5145-5146,5161-5164,5176-5178,5195-5222,5239-5243
+.flue/vitest.config.ts
+  s_8ab5e11356c463::t_c9de466b8304f4 1,3-10
+.flue/workflows/code-review-orchestrator.ts
+  s_8ab5e11356c463::t_5db89f54525d43 37
+.flue/workflows/code-review-specialist.ts
+  s_8ab5e11356c463::t_02dfd5d332efba 6-8,19-20,90-107,133-134
+.flue/workflows/finalize-review.ts
+  s_8ab5e11356c463::t_b7de7623b34149 48
+.flue/workflows/orchestrate.ts
+  s_8ab5e11356c463::t_4edfd23ab10249 138,148-149,437-542
+.flue/workflows/rebase.ts
+  s_8ab5e11356c463::t_966bec166a9dd3 2-11,13,15-53,55-108,111-142,144-171,173-329,333-340,342-348,350-415,418-430,432-456,458,460-464,466,469-490,492-497,501,503-515,517-524,526,528-544,548-669,671-718,720-985,988-1006,1008-1011,1013-1034,1036-1047,1049-1059,1061-1062,1064-1073,1075-1081,1083-1133,1135-1227
+.flue/workflows/style-guide-specialist.ts
+  s_8ab5e11356c463::t_da0e1d9097ff73 6-9,19-20,91-108,126-127
+.flue/wrangler.jsonc
+  s_8ab5e11356c463::t_27424b8a005e6b 100-106
+.github/CODEOWNERS
+  s_8ab5e11356c463::t_ff62cd2b9188f8 23,50,59,78-79,81-83,86,132-135,143,291-294,313-320,322-326,334-347,356-362,372-374
+.github/workflows/ci.yml
+  s_8ab5e11356c463::t_2e2620568741ea 7-9,117,159,162,165-166,174-175,178-180,229,273,323-324,326-327,333-334
+.github/workflows/flue-ci.yml
+  s_8ab5e11356c463::t_bfedfe6faef996 1,4,7-12,15,19-20,36,38,40-61,63-64,66-72,74,76,78-84
+.github/workflows/outdated-pr-check.yml
+  s_8ab5e11356c463::t_42d66e1fbb8dd9 79,81
+.github/workflows/outdated-pr-refresh.yml
+  s_8ab5e11356c463::t_7ea2935bac631a 79,81
+AGENTS.md
+  s_8ab5e11356c463::t_4bf66da29a2e6f 43,248-253
+astro.config.ts
+  s_8ab5e11356c463::t_e05733256a1a8d 2-6,15-18,33,35,38
+bin/fetch-warp-releases.js
+  s_8ab5e11356c463::t_5ff9c3f694cda1 11-37,39-40,44
+bin/post-nimbus-preview-url-comment/index.ts
+  s_8ab5e11356c463::t_078a0abd993e55 4-5,10-18,23-24,26-27,31-32,34-36,38,40-43,46-49,53,55-56,61,63-65,70
+bin/post-pr-ci-failure-comment/index.ts
+  s_8ab5e11356c463::t_04dc529d47bca5 31,36-38
+eslint.config.js
+  s_8ab5e11356c463::t_19ee2ccdc52aa3 38-39
+package.json
+  s_8ab5e11356c463::t_074772a2c9352b 2,130,182
+pnpm-lock.yaml
+  s_8ab5e11356c463::t_f204737256a8ef 276-277,432-433,839,843,864-865,876-877,888-889,900-901,912-913,5035-5036,5101-5103,6753-6754,6768-6769,6773,7509,7513,7533,7539,7545,7551,7557,12245,12250,12304,14270,14272-14276,14295,14298,14301,14304
+public/turnstile/spin/scripts/auth-probe.sh
+  s_8ab5e11356c463::t_43c6c0a1c58860 1-15,17,19-21,24-25,27-30,32-36,38-73
+public/turnstile/spin/scripts/fetch-secret.sh
+  s_8ab5e11356c463::t_84b1a77e637c07 1-23,25,27-33,35-37,39-43,45-67
+public/turnstile/spin/scripts/persist-skill.sh
+  s_8ab5e11356c463::t_5b158dfd11f347 1-53
+public/turnstile/spin/scripts/validate.sh
+  s_8ab5e11356c463::t_81d578aa084a78 1-18,20,22-32,34-35,37-44,46-47,49-53,55-69,71-78,80-83,85-91,93-97,99
+public/turnstile/spin/scripts/widget-create.sh
+  s_8ab5e11356c463::t_9b5cd09cb0723e 1-57
+scripts/optimize-svgs.ts
+  s_8ab5e11356c463::t_d0927cbe1d3277 4-12
+src/assets/images/reference-architecture/enterprise-ai-agent-workspace/top-level.svg
+  s_8ab5e11356c463::t_e412bc444d7d31 1
+src/assets/images/reference-architecture/enterprise-ai-agent-workspace/worker-do.svg
+  s_8ab5e11356c463::t_1135d9fb57ae23 1
+src/components/AiSearchVoiceDiagram.astro
+  s_8ab5e11356c463::t_60712c8e87abed 2,5-6,9,12-41,44-102,106-125,127-153,156-157,160-174,176-177,180-189,192-201,204-205,207,209-211,214-231,234-244,247,250-251,254-259,262-263,268-269,271-272,275-278,281-284,287,289-290,292-295,298,300-311,314-320,323-325,328-333,336-342,345-348,351-355,358-365,368-370,373-380,383-396,399-400,403-404,407-411,414-416,419-424,427-428,431-432,435-436,439-446,452-455,458-459,461-463,465-466,468,470-472,474-482,484-487,489-492,495-498,500-505,507-508,512-515
+src/components/OneTrust.astro
+  s_8ab5e11356c463::t_38c256287cd328 5-10,31
+src/content/catalog-models/alibaba-qwen3-max.json
+  s_8ab5e11356c463::t_14abb9d6747214 1747-1804
+src/content/catalog-models/alibaba-qwen3.5-397b-a17b.json
+  s_8ab5e11356c463::t_6136263d06b296 4173-4235
+src/content/catalog-models/anthropic-claude-fable-5.json
+  s_8ab5e11356c463::t_92a0d82de4fe3a 505
+src/content/catalog-models/anthropic-claude-haiku-4.5.json
+  s_8ab5e11356c463::t_7797d268369236 460-745
+src/content/catalog-models/anthropic-claude-opus-4.5.json
+  s_8ab5e11356c463::t_5d644716ebf5b9 424-658
+src/content/catalog-models/anthropic-claude-opus-4.6.json
+  s_8ab5e11356c463::t_765624b87ab4e4 517-862
+src/content/catalog-models/anthropic-claude-opus-4.7.json
+  s_8ab5e11356c463::t_18e29acc095b1d 539-747
+src/content/catalog-models/anthropic-claude-opus-4.8.json
+  s_8ab5e11356c463::t_7affc214d0cd76 488-817
+src/content/catalog-models/anthropic-claude-sonnet-4.5.json
+  s_8ab5e11356c463::t_e05cdd3a8cf887 424-625
+src/content/catalog-models/anthropic-claude-sonnet-5.json
+  s_8ab5e11356c463::t_62037a2bdb17b5 1-607
+src/content/catalog-models/bytedance-seedance-2.0-fast.json
+  s_8ab5e11356c463::t_c081dca17bb080 126
+src/content/catalog-models/moonshotai-kimi-k3.json
+  s_8ab5e11356c463::t_0e9ec301413a26 1-953
+src/content/catalog-models/openai-gpt-4.1-mini.json
+  s_8ab5e11356c463::t_1080302ed17477 7154-7306
+src/content/catalog-models/openai-gpt-4.1.json
+  s_8ab5e11356c463::t_3f4bbc54f0b96f 9632-9784
+src/content/catalog-models/openai-gpt-5-mini.json
+  s_8ab5e11356c463::t_e7e4af4545b399 6746-6966
+src/content/catalog-models/openai-gpt-5.1.json
+  s_8ab5e11356c463::t_85667f7d5fd2ec 8067-8219
+src/content/catalog-models/openai-gpt-5.4-mini.json
+  s_8ab5e11356c463::t_50da3ec9bbd222 5346-5515
+src/content/catalog-models/openai-gpt-5.4-nano.json
+  s_8ab5e11356c463::t_d56857c7eaaf49 5967-6138
+src/content/catalog-models/openai-gpt-5.4.json
+  s_8ab5e11356c463::t_64a9070e9cffee 7807-7981
+src/content/catalog-models/openai-gpt-5.5-pro.json
+  s_8ab5e11356c463::t_d5a7bbb3ec07c6 551-899
+src/content/catalog-models/openai-gpt-5.5.json
+  s_8ab5e11356c463::t_7700c8f21b4a59 4890-5247
+src/content/catalog-models/openai-gpt-5.6-luna.json
+  s_8ab5e11356c463::t_0bd9e774041584 1-404
+src/content/catalog-models/openai-gpt-5.6-sol.json
+  s_8ab5e11356c463::t_638f2d5d7a9f3b 1-24,26-27,29-47,49-52,55-87,89-104,106-118,120-122,124-173,175-178,181-213,215-230,232-244,246-248,250-253,255-279,281-348,350-406,408-416,419
+src/content/catalog-models/openai-gpt-5.6-terra.json
+  s_8ab5e11356c463::t_139a8399e300a3 1-405
+src/content/catalog-models/openai-gpt-5.json
+  s_8ab5e11356c463::t_9c7bd5b7b83589 5907-6214
+src/content/catalog-models/openai-o3.json
+  s_8ab5e11356c463::t_f78136c8110ca7 10526-10909
+src/content/catalog-models/openai-o4-mini.json
+  s_8ab5e11356c463::t_0b7afbb0b01e9e 9787-10036
+src/content/changelog/access/2026-07-16-rdp-bulk-print.mdx
+  s_8ab5e11356c463::t_67a261bebe2eb0 2-8,10,12,14
+src/content/changelog/access/2026-07-20-http-private-apps-l7-auth.mdx
+  s_8ab5e11356c463::t_9e9ff5439b1c08 2-6,9-11,13,15
+src/content/changelog/agents/2026-07-13-mcp-client-elicitation.mdx
+  s_8ab5e11356c463::t_f27532f2e67f77 1-54,56-63,65,67,69
+src/content/changelog/cloudflare-challenges/2026-07-13-precursor-session-based-detection.mdx
+  s_8ab5e11356c463::t_bca281be794fbb 2-5,7,9,11,13-16,18,20-24,26
+src/content/changelog/dlp/2026-07-10-source-code-detection-improvements.mdx
+  s_8ab5e11356c463::t_1eda438d7b7fa1 1-16
+src/content/changelog/dns/2026-07-15-internal-dns-ga.mdx
+  s_8ab5e11356c463::t_c436e968c27c01 2-6,9,11,13-15,17-28,30
+src/content/changelog/durable-objects/2026-06-30-declarative-do-class-exports.mdx
+  s_8ab5e11356c463::t_f8438114a986e1 2-8,10,12,14-22,24-39,41-50,52
+src/content/changelog/durable-objects/2026-07-09-restrict-new-kv-backed-namespaces.mdx
+  s_8ab5e11356c463::t_17d5a58b0815df 1-8,10,12,14,16,18-22,24,26-36
+src/content/changelog/durable-objects/2026-07-20-durable-objects-total-storage-metrics.mdx
+  s_8ab5e11356c463::t_f899e296607959 2-7,10,12-20
+src/content/changelog/email-service/2026-07-15-event-subscriptions.mdx
+  s_8ab5e11356c463::t_b7de10ba9f97de 2-7,10-31,33-34,36
+src/content/changelog/email-service/2026-07-17-email-message-preview.mdx
+  s_8ab5e11356c463::t_e1004c435ed2cc 2-6,9,11,13,15,17,19
+src/content/changelog/flagship/2026-07-16-wrangler-commands.mdx
+  s_8ab5e11356c463::t_0f9fe476aa0865 1-7,9,11,13-17,19,21-22,24-29,31,33-37,39,41-45,47-50,52-55,57-59
+src/content/changelog/fundamentals/2026-07-13-markdown-for-agents-header-preservation.mdx
+  s_8ab5e11356c463::t_4b29bc5f85c865 2-7,9,11-16,18
+src/content/changelog/fundamentals/2026-07-21-account-role-api-deprecated.mdx
+  s_8ab5e11356c463::t_e996a963768708 1-7,9,11,13,15,17-20,22
+src/content/changelog/r2/2026-07-09-r2-data-catalog-read-only-tokens.mdx
+  s_8ab5e11356c463::t_ea5c1ddef9fe0f 1-20
+src/content/changelog/r2/2026-07-13-r2-data-catalog-manifest-optimization.mdx
+  s_8ab5e11356c463::t_5847b7a898ce41 1-7,9,11,13,15,17
+src/content/changelog/sandbox/2026-07-21-devin-outposts.mdx
+  s_8ab5e11356c463::t_5f2614219845e9 2-7,9,11,13,15
+src/content/changelog/waf/2026-07-14-waf-release.mdx
+  s_8ab5e11356c463::t_87123b379dee06 2-5,7,9,11,13,15,17-18,20-26,28,30-55,57
+src/content/changelog/waf/2026-07-17-emergency-waf-release.mdx
+  s_8ab5e11356c463::t_575bf5dde54070 2-5,7,9,11,13,15,18,20-28,32-40,43-51,54-62,64-74
+src/content/changelog/waf/2026-07-21-waf-release.mdx
+  s_8ab5e11356c463::t_9a18efef9b99f8 2-5,7,9,12-16,18,21,24-272
+src/content/changelog/waf/scheduled-waf-release.mdx
+  s_8ab5e11356c463::t_d0dcbd90ad685b 2-4,24-25,29,31,33,37-38,42,44,49-61,63
+src/content/changelog/web-analytics/2026-06-10-improved-reliability-for-web-analytics-dash.mdx
+  s_8ab5e11356c463::t_ba13bc469d65f5 2-6,9-13,15
+src/content/changelog/workers-ai/2026-07-13-markdown-conversion-text-output.mdx
+  s_8ab5e11356c463::t_647f542549a1c2 2-5,7,9,11,13,15,17-26,28-37,39
+src/content/changelog/workers/2026-07-14-temporary-accounts-api.mdx
+  s_8ab5e11356c463::t_a7cbca8e3e9581 2-7,9,11,13,15,17,19,21,23-27,29-31,33,35-47,49
+src/content/directory/privacy-pass.yaml
+  s_8ab5e11356c463::t_18aac6beac8315 1-2,4-8,10-13
+src/content/docs/1.1.1.1/changelog.mdx
+  s_8ab5e11356c463::t_ae704527660bec 2-10,12,14,16
+src/content/docs/agents/concepts/agentic-patterns/human-in-the-loop.mdx
+  s_8ab5e11356c463::t_4b74333e3e66f1 6,13,24,28,30-34,38,326,328-330,335-346,348-358,360,362,364,366-455,462,464,466,512,583-585,589-591,595-597
+src/content/docs/agents/concepts/workflows.mdx
+  s_8ab5e11356c463::t_b33d461267aaff 41
+src/content/docs/agents/model-context-protocol/apis/agent-api.mdx
+  s_8ab5e11356c463::t_c25a44181cd158 260,262,264-265,267,269,271,273,275-294,296-298,300-301,303,305,307,309,311,313-326,328-336,341,343,345,347-355,362,365-367,374,377
+src/content/docs/agents/model-context-protocol/apis/client-api.mdx
+  s_8ab5e11356c463::t_8f1918401ccdae 321,332,339-370,391-395,400-401,403-422,428,430-436,441-448,450,452-466,471,473,475,477-498,500-504,509-563,568,570,572,574-576,578,592-621,868-938
+src/content/docs/agents/runtime/operations/configuration.mdx
+  s_8ab5e11356c463::t_9be7a98721a798 73-77,79-83,167,169,175-178,180,186-191,640,716-718,782,784,788,794-796,804,810-814,816-817,825-827,831,837-840,852-857,859,865,871-873,896,898,928-929
+src/content/docs/ai-search/get-started/dashboard.mdx
+  s_8ab5e11356c463::t_0707e19249f69f 5
+src/content/docs/ai-search/get-started/index.mdx
+  s_8ab5e11356c463::t_74057fd4af1695 38-42
+src/content/docs/ai-search/get-started/python.mdx
+  s_8ab5e11356c463::t_cdefb428baa852 5
+src/content/docs/ai-search/get-started/wrangler.mdx
+  s_8ab5e11356c463::t_2015215dd8f526 5
+src/content/docs/ai-search/how-to/nlweb.mdx
+  s_8ab5e11356c463::t_ed865aea60da38 6
+src/content/docs/ai-search/how-to/per-tenant-search.mdx
+  s_8ab5e11356c463::t_d4ac1a44e16c74 156-179,224-225,295,301-309
+src/content/docs/ai-search/how-to/talk-to-your-knowledge-base.mdx
+  s_8ab5e11356c463::t_ea924e0e08c03c 2-10,12-19,21,23,25,27-62,64-74,76-78,80-96,98-234,236-237,239,241-262,264,267-268,270,272,274,276,278,280,282,284,286,288,290,292-314
+src/content/docs/browser-run/faq.mdx
+  s_8ab5e11356c463::t_eea114bb1efa14 14,194-236
+src/content/docs/browser-run/quick-actions/crawl-endpoint.mdx
+  s_8ab5e11356c463::t_6428d5d7ab0860 16
+src/content/docs/browser-run/quick-actions/index.mdx
+  s_8ab5e11356c463::t_3555d30a7684a7 22-23
+src/content/docs/browser-run/quick-actions/scrape-endpoint.mdx
+  s_8ab5e11356c463::t_72f38963fd166b 25,28,108
+src/content/docs/client-side-security/index.mdx
+  s_8ab5e11356c463::t_3382afa30abfc9 86-87
+src/content/docs/cloudflare-challenges/precursor.mdx
+  s_8ab5e11356c463::t_198fff28d11a26 58,60,67-96
+src/content/docs/cloudflare-challenges/troubleshooting/challenge-solve-issues.mdx
+  s_8ab5e11356c463::t_4da0f693ce77a6 40-45
+src/content/docs/cloudflare-for-platforms/cloudflare-for-saas/domain-support/hostname-validation/backoff-schedule.mdx
+  s_8ab5e11356c463::t_563741e8be6757 8
+src/content/docs/cloudflare-for-platforms/cloudflare-for-saas/domain-support/hostname-validation/zero-downtime-migration.mdx
+  s_8ab5e11356c463::t_303645a1182327 1-64,66,68,70-112,114-148,150-172,174-177
+src/content/docs/cloudflare-one/access-controls/applications/non-http/self-hosted-private-app.mdx
+  s_8ab5e11356c463::t_d9e6626e72a703 86-87,92-100,102,104
+src/content/docs/cloudflare-one/access-controls/policies/mfa-requirements.mdx
+  s_8ab5e11356c463::t_707a19e41914b6 138-160
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-tunnel/use-cases/rdp/rdp-browser.mdx
+  s_8ab5e11356c463::t_fddbe1b6519fe2 30,307-311,415-417
+src/content/docs/cloudflare-one/team-and-resources/devices/cloudflare-one-client/deployment/mdm-deployment/partners/intune.mdx
+  s_8ab5e11356c463::t_39863dbd1da2ff 344-347
+src/content/docs/cloudflare-one/team-and-resources/devices/cloudflare-one-client/troubleshooting/known-limitations.mdx
+  s_8ab5e11356c463::t_7895811b66464c 251-274
+src/content/docs/cloudflare-one/traffic-policies/resolver-policies.mdx
+  s_8ab5e11356c463::t_6ac5c81823a3b3 53
+src/content/docs/data-localization/regional-services/ip-bindings.mdx
+  s_8ab5e11356c463::t_3a07fb97d4c804 29-42,56-59,115,123,136,152-180,198,239
+src/content/docs/ddos-protection/managed-rulesets/http/http-overrides/override-examples.mdx
+  s_8ab5e11356c463::t_eb03572137bc82 87-90
+src/content/docs/dns/index.mdx
+  s_8ab5e11356c463::t_0665e4a805742d 23
+src/content/docs/dns/internal-dns/dns-views.mdx
+  s_8ab5e11356c463::t_9a5978860af96f 37-40
+src/content/docs/dns/internal-dns/get-started.mdx
+  s_8ab5e11356c463::t_dee5e7d2efb77d 50-52,57-62,175-180
+src/content/docs/dns/internal-dns/index.mdx
+  s_8ab5e11356c463::t_67e68a009fde7c 6,38
+src/content/docs/dns/internal-dns/internal-zones/reference-zones.mdx
+  s_8ab5e11356c463::t_80cf7364cf8f4e 46-49
+src/content/docs/dns/internal-dns/internal-zones/setup.mdx
+  s_8ab5e11356c463::t_41bad7f876784c 38-44
+src/content/docs/dns/manage-dns-records/troubleshooting/records-with-same-name.mdx
+  s_8ab5e11356c463::t_baea82a64c6814 26
+src/content/docs/durable-objects/best-practices/rules-of-durable-objects.mdx
+  s_8ab5e11356c463::t_a2e49b35e97935 1496,1498,1561,1566-1569,1571-1572,1577
+src/content/docs/durable-objects/concepts/what-are-durable-objects.mdx
+  s_8ab5e11356c463::t_ea2dcabc5b4c3d 56
+src/content/docs/durable-objects/get-started.mdx
+  s_8ab5e11356c463::t_936832762961ed 282,284,290-293,295,301
+src/content/docs/durable-objects/index.mdx
+  s_8ab5e11356c463::t_1301b18b4c30fc 44
+src/content/docs/durable-objects/reference/durable-object-class-migrations-legacy.mdx
+  s_8ab5e11356c463::t_09d09c9ef34aff 2-9,11-17,19,21,23,25-39,41-92,94-102,104-271,273-348,350-362,364-367,369,371,373,375,377,379,381-402,404,406,408-428
+src/content/docs/durable-objects/reference/durable-objects-migrations.mdx
+  s_8ab5e11356c463::t_b3412734cdd2d8 3-4,17-18,21,23,25-28,30,32,36,38,40-42,44,46,49,55-64,68,71-83,85,89-90,92-93,95-98,100,102-121,123,125-127,129,131-141,144-146,151-154,156,161,163-165,169-189,194-202,204,209,211,213,216-229,234-244,249-259,261,265,267-269,271,273-290,292,294-307,309,311,313-325,327,329,332,337-339,342,347-367,371-412,414-445,450-452,454-459,461,466,468,470,472,474-475,477-478,480-481,483-484,486-487,489-490,492,494-500,502-529,532-534,537-585
+src/content/docs/durable-objects/reference/environments.mdx
+  s_8ab5e11356c463::t_71b00621eb78d9 100,102
+src/content/docs/email-service/configuration/domains.mdx
+  s_8ab5e11356c463::t_fa8385249fff8d 330-342
+src/content/docs/email-service/examples/email-sending/sync-recipient-records.mdx
+  s_8ab5e11356c463::t_f0def3cbf923de 1-11,13-18,20,22-23,25-26,28,30,32-34,36,38,40-42,44,46,48,50,52,54-87,89-101,104-133,135-142,144-146,149-181
+src/content/docs/email-service/observability/logs.mdx
+  s_8ab5e11356c463::t_8553d2354cfd80 64-75
+src/content/docs/email-service/platform/event-subscriptions.mdx
+  s_8ab5e11356c463::t_88056356a4f4d9 2-12,14,16,18,20
+src/content/docs/flagship/get-started.mdx
+  s_8ab5e11356c463::t_bf0f41cb145547 182
+src/content/docs/flagship/reference/wrangler-commands.mdx
+  s_8ab5e11356c463::t_7cf3c819dd15b9 1-663
+src/content/docs/fundamentals/account/account-security/scim-setup/troubleshooting.mdx
+  s_8ab5e11356c463::t_b0e693ea73e2c7 39-42
+src/content/docs/fundamentals/manage-members/roles.mdx
+  s_8ab5e11356c463::t_01b210885719f4 113-114,133-141
+src/content/docs/fundamentals/organizations/for-enterprise.mdx
+  s_8ab5e11356c463::t_93f45bf4ed5aa9 1-237
+src/content/docs/fundamentals/organizations/for-mssp-distributors.mdx
+  s_8ab5e11356c463::t_6d74548d08ec42 1-244
+src/content/docs/fundamentals/organizations/index.mdx
+  s_8ab5e11356c463::t_e97b9c84ac72d7 13,15,19,23-79,81
+src/content/docs/fundamentals/organizations/limitations.mdx
+  s_8ab5e11356c463::t_fc204bb1827ece 3-4,6,11,13-77
+src/content/docs/fundamentals/organizations/manage-members.mdx
+  s_8ab5e11356c463::t_7a1de239598c19 2,4,6-7,12,14,16
+src/content/docs/fundamentals/organizations/manage-organization.mdx
+  s_8ab5e11356c463::t_54bbd172e363fb 2,4,6-7,12,14,16
+src/content/docs/fundamentals/organizations/policy-sharing.mdx
+  s_8ab5e11356c463::t_0486e4f678618a 2-8,11-102
+src/content/docs/fundamentals/organizations/setup.mdx
+  s_8ab5e11356c463::t_4e6b94cd379a9d 2,4,6-7,12,14,16
+src/content/docs/fundamentals/reference/markdown-for-agents.mdx
+  s_8ab5e11356c463::t_909477711567c4 63-64,81-93,102-104
+src/content/docs/hyperdrive/planetscale.mdx
+  s_8ab5e11356c463::t_385172ea228034 12,66-79
+src/content/docs/learning-paths/dns-best-practices/concepts/phase-1.mdx
+  s_8ab5e11356c463::t_89e60646365495 19
+src/content/docs/logs/logpush/logpush-job/datasets/account/firewall_events.md
+  s_8ab5e11356c463::t_3908ff7f5f1e6a 40
+src/content/docs/logs/logpush/logpush-job/datasets/zone/firewall_events.md
+  s_8ab5e11356c463::t_b7bd51053ec9a4 40
+src/content/docs/logs/logpush/logpush-job/datasets/zone/http_requests.md
+  s_8ab5e11356c463::t_1c6b8eef3c334e 586,610
+src/content/docs/logs/reference/security-fields.mdx
+  s_8ab5e11356c463::t_5478622da496e9 22
+src/content/docs/pages/platform/limits.mdx
+  s_8ab5e11356c463::t_5b47553e09c0aa 80-89
+src/content/docs/pipelines/platform/pricing.mdx
+  s_8ab5e11356c463::t_ebe38254084119 16,29,32,43,45,56,71
+src/content/docs/privacy-pass/concepts/deployment-models.mdx
+  s_8ab5e11356c463::t_ae2782e39988a6 1-84
+src/content/docs/privacy-pass/concepts/index.mdx
+  s_8ab5e11356c463::t_ebe3ed5e938b9a 2-9,11,13,15
+src/content/docs/privacy-pass/concepts/privacy-pass-protocol.mdx
+  s_8ab5e11356c463::t_faacac166313dc 1-78
+src/content/docs/privacy-pass/getting-started.mdx
+  s_8ab5e11356c463::t_d1c10392ba76ac 2-8,11-136
+src/content/docs/privacy-pass/index.mdx
+  s_8ab5e11356c463::t_717906688d28b7 2-8,11-65
+src/content/docs/privacy-pass/production-deployment-testing.mdx
+  s_8ab5e11356c463::t_173238f59563b0 2-25,27,29-32,34,36-38,40-61,63-133,136-141
+src/content/docs/privacy-pass/references.mdx
+  s_8ab5e11356c463::t_a0ad22dcc32657 1-48
+src/content/docs/queues/event-subscriptions/events-schemas.mdx
+  s_8ab5e11356c463::t_c3e85b265d9a5a 28-31
+src/content/docs/r2/api/tokens.mdx
+  s_8ab5e11356c463::t_e9512f8ce24ac4 69
+src/content/docs/r2/data-catalog/get-started.mdx
+  s_8ab5e11356c463::t_586092191048ef 94
+src/content/docs/r2/data-catalog/manage-catalogs.mdx
+  s_8ab5e11356c463::t_d70929c9c90253 256-268,271,273-274,282-284,309-335
+src/content/docs/realtime/realtimekit/core/api-reference/RTKConnectedMeetings.md
+  s_8ab5e11356c463::t_03b07463ce91ff 16,35,37
+src/content/docs/realtime/realtimekit/core/api-reference/RTKLivestream.md
+  s_8ab5e11356c463::t_8244720cc02a29 18,39,41,57
+src/content/docs/realtime/realtimekit/core/api-reference/RTKParticipant.md
+  s_8ab5e11356c463::t_19864f68b13168 17-18,29,68,97,99
+src/content/docs/realtime/realtimekit/core/api-reference/RTKParticipants.md
+  s_8ab5e11356c463::t_27c0c36cdb0519 23,35,37,50,84-85,162,164,176,178,322,324
+src/content/docs/realtime/realtimekit/core/api-reference/RTKPermissionsPreset.md
+  s_8ab5e11356c463::t_69b2c1eab5eced 14-39,52
+src/content/docs/realtime/realtimekit/core/api-reference/RTKPlugin.md
+  s_8ab5e11356c463::t_d0eacb31158409 20-26,28,30-31,33-34,36-38,40-41,45-48,50,52-54,56-58,60,63-64,66,69
+src/content/docs/realtime/realtimekit/core/api-reference/RTKStage.md
+  s_8ab5e11356c463::t_35b839faccaf47 80,111
+src/content/docs/realtime/realtimekit/core/api-reference/RTKStore.md
+  s_8ab5e11356c463::t_148ca0e839c420 16,29,48,140-145
+src/content/docs/realtime/turn/faq.mdx
+  s_8ab5e11356c463::t_bfaa1be7b61816 47-50
+src/content/docs/reference-architecture/diagrams/ai/enterprise-ai-agent-workspace.mdx
+  s_8ab5e11356c463::t_b1ce7b341a7c01 1-10,12,14,16,18,20,22,24,26-29,31,33,35,37,39,41,43,45-55,57,59,61,63,65,67,69,71,73,75-81,83,85-92
+src/content/docs/rules/url-forwarding/bulk-redirects/reference/csv-file-format.mdx
+  s_8ab5e11356c463::t_722ec4f60545e7 34
+src/content/docs/sandbox/tutorials/automated-testing-pipeline.mdx
+  s_8ab5e11356c463::t_435348f6589cef 6
+src/content/docs/sandbox/tutorials/devin-outposts.mdx
+  s_8ab5e11356c463::t_ebd6cda95926e5 2-9,12-143
+src/content/docs/spectrum/about/ddos-for-spectrum.mdx
+  s_8ab5e11356c463::t_a218b22b947ad4 23-38
+src/content/docs/spectrum/reference/configuration-options.mdx
+  s_8ab5e11356c463::t_27a5682cec8141 12-15,122-127,148-153,204
+src/content/docs/spectrum/reference/logs.mdx
+  s_8ab5e11356c463::t_c986dd7feb1609 22-24
+src/content/docs/spectrum/reference/troubleshooting.mdx
+  s_8ab5e11356c463::t_a52974a22b57c8 30-136
+src/content/docs/ssl/post-quantum-cryptography/pqc-and-zero-trust.mdx
+  s_8ab5e11356c463::t_c092ba59d46c14 115,119
+src/content/docs/ssl/post-quantum-cryptography/pqc-cloudflare-products.mdx
+  s_8ab5e11356c463::t_e50a1d5b3bcd94 43
+src/content/docs/support/contacting-cloudflare-support.mdx
+  s_8ab5e11356c463::t_cd0474edf0e144 42
+src/content/docs/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-502-504.mdx
+  s_8ab5e11356c463::t_34f740ca85d511 64-65
+src/content/docs/warp-client/warp-modes.mdx
+  s_8ab5e11356c463::t_938024d0d8a729 27
+src/content/docs/web-analytics/faq.mdx
+  s_8ab5e11356c463::t_4c20342fb9aea4 65-74,93,103
+src/content/docs/workers-ai/features/markdown-conversion/conversion-options.mdx
+  s_8ab5e11356c463::t_10b08b91130cfa 17-30
+src/content/docs/workers-ai/features/markdown-conversion/usage/binding.mdx
+  s_8ab5e11356c463::t_c10cfa0bf5a15a 132-133,139,142
+src/content/docs/workers/cache/index.mdx
+  s_8ab5e11356c463::t_ed1edaaf3354aa 26
+src/content/docs/workers/platform/claim-deployments.mdx
+  s_8ab5e11356c463::t_66c688ebe7aa2b 3,11-18,20,22,24,26,28,30,32-35,37-43,47,51,59,61,63,68,70,74,76,82,89,91,93-95,99-389,391,393-402,404,406,408-411,413,415-420
+src/content/docs/workers/versions-and-deployments/deployment-management.mdx
+  s_8ab5e11356c463::t_dbdd59d1b64217 94
+src/content/docs/workers/versions-and-deployments/gradual-deployments/with-durable-objects.mdx
+  s_8ab5e11356c463::t_6b49e76cf2ab97 44,46,48,52,54,56
+src/content/docs/workers/versions-and-deployments/rollbacks.mdx
+  s_8ab5e11356c463::t_a31b0e83df7554 75
+src/content/docs/workers/wrangler/commands/flagship.mdx
+  s_8ab5e11356c463::t_2ef3323a66f743 2-6,9-110
+src/content/docs/workers/wrangler/configuration.mdx
+  s_8ab5e11356c463::t_ffc13879af23b1 241-243,245,675-728,731-737,743-746,749,752-755
+src/content/docs/workflows/build/trigger-workflows.mdx
+  s_8ab5e11356c463::t_549b242fcc64ac 223-237
+src/content/docs/workflows/build/workers-api.mdx
+  s_8ab5e11356c463::t_16e9549fd18f37 604,697-721
+src/content/docs/workflows/reference/pricing.mdx
+  s_8ab5e11356c463::t_dec7260f48ab3a 28-33
+src/content/partials/cloudflare-one/tunnel/logs/view-logs-dashboard.mdx
+  s_8ab5e11356c463::t_a058f18a1156d0 7
+src/content/partials/cloudflare-one/warp/add-local-domain.mdx
+  s_8ab5e11356c463::t_c9da7c2a8a4098 15,100
+src/content/partials/durable-objects/api-storage-introduction.mdx
+  s_8ab5e11356c463::t_68b6caa9d349db 9
+src/content/partials/durable-objects/do-plans-note.mdx
+  s_8ab5e11356c463::t_08db6583954b9d 8-9,12
+src/content/partials/durable-objects/durable-objects-pricing.mdx
+  s_8ab5e11356c463::t_e64d83fc9d55fd 47
+src/content/partials/durable-objects/recommend-sqlite-do.mdx
+  s_8ab5e11356c463::t_35110871b5647d 10-11
+src/content/partials/queues/event-subscriptions/email-sending-events.mdx
+  s_8ab5e11356c463::t_a1bb2545587cbd 1-242
+src/content/partials/realtime/realtimekit/web/language-pack-json.mdx
+  s_8ab5e11356c463::t_b3063ae522bdf9 285-294,346
+src/content/partials/smart-shield/health-checks-analytics.mdx
+  s_8ab5e11356c463::t_8fa9e390242158 183,187
+src/content/release-notes/api-deprecations.yaml
+  s_8ab5e11356c463::t_2cb2127dceb930 6-34
+src/content/release-notes/beacon-min-js.yaml
+  s_8ab5e11356c463::t_a8f5ac531a491b 6-8
+src/content/release-notes/durable-objects.yaml
+  s_8ab5e11356c463::t_0bd0eccb47ab56 6-9
+src/content/release-notes/realtimekit-android-core.yaml
+  s_8ab5e11356c463::t_f8648fcca6972b 6-17
+src/content/release-notes/realtimekit-android-ui-kit.yaml
+  s_8ab5e11356c463::t_061baf72f29b31 6-15
+src/content/release-notes/realtimekit-ios-core.yaml
+  s_8ab5e11356c463::t_df813d91054231 6-17
+src/content/release-notes/realtimekit-ios-ui-kit.yaml
+  s_8ab5e11356c463::t_81b6e678766cb0 6-15
+src/content/release-notes/realtimekit-web-core.yaml
+  s_8ab5e11356c463::t_0c92ce11724967 6-13
+src/content/release-notes/realtimekit-web-ui-kit.yaml
+  s_8ab5e11356c463::t_5c15978d458eb9 6-26,166-177,209-212
+src/content/release-notes/workers.yaml
+  s_8ab5e11356c463::t_743c90d9fd0688 6-11
+src/content/warp-releases/linux/ga/2026.6.880.0.yaml
+  s_8ab5e11356c463::t_29dd427e992634 1-28
+src/content/warp-releases/macos/ga/2026.6.822.0.yaml
+  s_8ab5e11356c463::t_f67635e0b5be80 36
+src/content/warp-releases/macos/ga/2026.6.880.0.yaml
+  s_8ab5e11356c463::t_794951e6ee4023 1-9
+src/content/warp-releases/windows/ga/2026.6.880.0.yaml
+  s_8ab5e11356c463::t_52688302535e14 1-9
+src/icons/privacy-pass.svg
+  s_8ab5e11356c463::t_61e8d94b221b0f 1
+src/nimbus/astro-config.ts
+  s_8ab5e11356c463::t_ea52a19aa3132b 49,82-83,90,116,118-119,122,125,162,167,170,176,196,260-261,294-296,305,309-312,330-336,352-353,361-364
+src/nimbus/components.ts
+  s_8ab5e11356c463::t_bec855737d912c 27,72
+src/nimbus/components/404.astro
+  s_8ab5e11356c463::t_f7e7875522514e 5-24,28,30-33,35-40,42-48,50-51,53-72
+src/nimbus/components/AgentDirective.astro
+  s_8ab5e11356c463::t_cf465d2c452a1f 3-4,11-13,17-27
+src/nimbus/components/BackgroundLines.astro
+  s_8ab5e11356c463::t_ae744637a7b281 12-13,15-18,25,29-30,32-40,42-51
+src/nimbus/components/CopyPromptButton.astro
+  s_8ab5e11356c463::t_f6087e704cb787 4-7
+src/nimbus/components/Footer.astro
+  s_8ab5e11356c463::t_2d34aa2fae4f10 2-4,6-14,17-19,22-26,28-70,72-96,98-99,101,103-105,108-265,267-307
+src/nimbus/components/Header.astro
+  s_8ab5e11356c463::t_cafab26bc142c3 9,13-22,25,36-39,43-50,54-81,83-106,108-139,141-154
+src/nimbus/components/PageHead.astro
+  s_8ab5e11356c463::t_f6539cbe11eeeb 14-19,21,27-40,44-53,57-66,74-76,78,80-85,90-92,94-95,101-104,106-109,111-120,124-128,131-134,136-139,148-151,158-160,164,169-170,173-182,188-197,199-208,210-213,221-225,232-246,254-258,272-276,278-287,291-295
+src/nimbus/components/PageHeader.astro
+  s_8ab5e11356c463::t_4a0d6bc9d23b3a 17-19,27-39
+src/nimbus/components/PageShell.astro
+  s_8ab5e11356c463::t_be12fe365435a0 10,17-20,22
+src/nimbus/components/Render.astro
+  s_8ab5e11356c463::t_3fd18db40d3dcb 22-31,40-54,59-69,71-77,79-91,98-112,115-126,130
+src/nimbus/components/_stubs/Stub.astro
+  s_8ab5e11356c463::t_6ed1a52c908706 19-20,27-28,30-33
+src/nimbus/components/cf/APIRequest.astro
+  s_8ab5e11356c463::t_d851e8120325aa 29-38,41,45,51-52,54-57,60-62,66-67,73,76-79,83-85,89-103,109,111-114,118-119,122-129,133-134,137-138,141-162,168-170,175-190,194-199
+src/nimbus/components/cf/AnchorHeading.astro
+  s_8ab5e11356c463::t_b88dea741cd7f0 11-13,21-27,31-32
+src/nimbus/components/cf/AnimatedWorkflowDiagram.astro
+  s_8ab5e11356c463::t_604b6cd0199a60 163
+src/nimbus/components/cf/AvailableNotifications.astro
+  s_8ab5e11356c463::t_7212dd283dc06c 20-24,31,37-39,43-45,49-50,57-94
+src/nimbus/components/cf/CURL.astro
+  s_8ab5e11356c463::t_d5097c5ef51ab2 21-31,34-42,45,50-58,64-66,70-71,73,77-81
+src/nimbus/components/cf/DashButton.astro
+  s_8ab5e11356c463::t_fe45f0fc3679b5 9,14
+src/nimbus/components/cf/Description.astro
+  s_8ab5e11356c463::t_66736e14d08c11 12
+src/nimbus/components/cf/Details.astro
+  s_8ab5e11356c463::t_0ed1fb3d9cb3b0 11-13,19-25,29-33
+src/nimbus/components/cf/DirectoryListing.astro
+  s_8ab5e11356c463::t_b9a9871589396a 19-20,24-28,34-37,42-43,48-51,55-62,66-73,79-81,86-105
+src/nimbus/components/cf/DirectoryListingItem.astro
+  s_8ab5e11356c463::t_9c5a1548764075 11-15,23-26,30-49
+src/nimbus/components/cf/Example.astro
+  s_8ab5e11356c463::t_291afa723d6e56 16,22-37
+src/nimbus/components/cf/ExtraFlagDetails.astro
+  s_8ab5e11356c463::t_b66928008ccff8 11-12,19
+src/nimbus/components/cf/Feature.astro
+  s_8ab5e11356c463::t_752b415a017bda 3-4,8-13,16-18,25-49,53,55-57,59-64,66-76
+src/nimbus/components/cf/FeatureTable.astro
+  s_8ab5e11356c463::t_2cf3279f3d1c5f 19-22,27-29,34,38,50-51,54-55,58-114
+src/nimbus/components/cf/Flex.astro
+  s_8ab5e11356c463::t_f0a1ac44ab97ce 10
+src/nimbus/components/cf/FourCardGrid.astro
+  s_8ab5e11356c463::t_dcf64e34a3a03e 8,17-20,22-24,26-34,36-39
+src/nimbus/components/cf/GitHubCode.astro
+  s_8ab5e11356c463::t_b3d6831cd92ad0 22-41,44,47,51,58,60-64,66,68-73,75-77,79,83,93-99
+src/nimbus/components/cf/Glossary.astro
+  s_8ab5e11356c463::t_2a662ec4acd4e7 16,23-28,34-40,44-68,72-81,85-88,90-100,102-106,108-114,116-128,130-133,135-137
+src/nimbus/components/cf/GlossaryDefinition.astro
+  s_8ab5e11356c463::t_766e57cc3d1580 19-23,29-30,33,39,43
+src/nimbus/components/cf/GlossaryTooltip.astro
+  s_8ab5e11356c463::t_8b2c2014f7566a 2-5,11-13,20-21,24,28-29,42,44-47,49-53,55-56,60-63
+src/nimbus/components/cf/InlineBadge.astro
+  s_8ab5e11356c463::t_5adfb6e133beaa 13,19-21,25-46
+src/nimbus/components/cf/LinkCard.astro
+  s_8ab5e11356c463::t_391ea01654905d 3,5-19,24-29,32,35-37
+src/nimbus/components/cf/ListCard.astro
+  s_8ab5e11356c463::t_8a0a982c55bd20 7-9,14-15,19-22,26-86
+src/nimbus/components/cf/ListTutorials.astro
+  s_8ab5e11356c463::t_295c98db2626e8 18-21,24,27-29,33-34,36-40,45-64
+src/nimbus/components/cf/Markdown.astro
+  s_8ab5e11356c463::t_3f0a2300ead60f 17-25,29-30
+src/nimbus/components/cf/MetaInfo.astro
+  s_8ab5e11356c463::t_4377afc1269e5d 9,15
+src/nimbus/components/cf/PagesBuildEnvironment.astro
+  s_8ab5e11356c463::t_4c846c7c6ad5f5 16-41
+src/nimbus/components/cf/PagesBuildEnvironmentLanguages.astro
+  s_8ab5e11356c463::t_6504ed2eab1a9b 15-46
+src/nimbus/components/cf/PagesBuildEnvironmentTools.astro
+  s_8ab5e11356c463::t_94a46744d007d9 15-44
+src/nimbus/components/cf/PagesBuildPreset.astro
+  s_8ab5e11356c463::t_6009cb48feb62f 14,22,30-32,37-54
+src/nimbus/components/cf/Plan.astro
+  s_8ab5e11356c463::t_f502678a1e84e0 3,6-14,20-23,27-32,35,37-47,51-52
+src/nimbus/components/cf/ProductFeatures.astro
+  s_8ab5e11356c463::t_0d8635f82da7ff 18-22,27-29,34,38,45-46,48-148
+src/nimbus/components/cf/ProductReleaseNotes.astro
+  s_8ab5e11356c463::t_5e6b73e9a11327 27-29,33-35,39-40,42-44,52,54-58,62-64,69-73,77-122
+src/nimbus/components/cf/PublicStats.astro
+  s_8ab5e11356c463::t_a65eadc27a20ba 13-15,19-24
+src/nimbus/components/cf/RSSButton.astro
+  s_8ab5e11356c463::t_94962a440538c7 16-32,39-41,43-44
+src/nimbus/components/cf/RelatedProduct.astro
+  s_8ab5e11356c463::t_979eec5d4da184 6-9,12,15-41
+src/nimbus/components/cf/ResourcesBySelector.tsx
+  s_8ab5e11356c463::t_a69b55d2677b8a 10-14,44-49,56-61,68-73,122,290-293,309,349-355,357,360,364,382,394,429-430,432,448,481-482,485,493,504,520,525
+src/nimbus/components/cf/RuleID.astro
+  s_8ab5e11356c463::t_4edc4fbc772ed3 17-20,26-34,38-48,50
+src/nimbus/components/cf/Stream.astro
+  s_8ab5e11356c463::t_a01fb637e4245d 24-41,52-55,57-73,78-89,101-107,112-172,175-176,179,181-183,185-186,188-189,191-198,200
+src/nimbus/components/cf/Type.astro
+  s_8ab5e11356c463::t_57f8fe79ffc9ec 11,18,20
+src/nimbus/components/cf/TypeScriptExample.astro
+  s_8ab5e11356c463::t_f35831200fd0f0 31-34,45-47,56-57,66-82,90-124
+src/nimbus/components/cf/WARPRelease.astro
+  s_8ab5e11356c463::t_2100bce656d104 2,9-10,65-73,80-101
+src/nimbus/components/cf/Width.astro
+  s_8ab5e11356c463::t_9b9ab708d2a605 12-13,21-23,28
+src/nimbus/components/cf/WranglerArg.astro
+  s_8ab5e11356c463::t_000eab7951f2e3 15-16,27-28,37-38,42-44,49-54
+src/nimbus/components/cf/WranglerCommand.astro
+  s_8ab5e11356c463::t_062539eb98713b 22-24,35-41,45,49-51,59-60,71-76,83-86,90-101,105-111
+src/nimbus/components/cf/WranglerConfig.astro
+  s_8ab5e11356c463::t_a723a1a2803efc 19,31-33,41-42,45,53-56,63-68,70-71,75-76,81-86
+src/nimbus/components/cf/WranglerNamespace.astro
+  s_8ab5e11356c463::t_cc316b8c368a17 14-15,25,32-39,46-58
+src/nimbus/components/cf/YouTube.astro
+  s_8ab5e11356c463::t_d9d4ce12afbbc3 12-16,21,26-32
+src/nimbus/components/changelog/ChangelogEntry.astro
+  s_8ab5e11356c463::t_0f66b40f5439c7 17-20,28,30-31,33,35-48,50-56,58-61
+src/nimbus/components/changelog/ChangelogFeed.astro
+  s_8ab5e11356c463::t_6fd5158f447cb7 20,26,33-44,48,52-62,64,66-77,79-92,94,97,99-123,125,129-133
+src/nimbus/components/changelog/DateRail.astro
+  s_8ab5e11356c463::t_eb4b20623d5bb9 10,16-19,24-29
+src/nimbus/components/changelog/Header.astro
+  s_8ab5e11356c463::t_6ffbbc66235f18 17-20,24-29,33-36,41-42,46-54,62-65,72-77,82-83,85-86,88,90-124,126-147,151-168,170-172
+src/nimbus/components/changelog/Pagination.astro
+  s_8ab5e11356c463::t_5fcde960f475b5 11-16,22,30,32-37,39,41-48,56,63-74,76-92,94-102
+src/nimbus/components/changelog/ProductPills.astro
+  s_8ab5e11356c463::t_24b16fce8f7c01 15,24-30
+src/nimbus/components/decorative/DashedLine.astro
+  s_8ab5e11356c463::t_6e147ef9a334be 2,5-6,9-13,16-19,21-29
+src/nimbus/components/decorative/Dots.astro
+  s_8ab5e11356c463::t_eca6fd7dc742af 2-4,6,8-9,12-22,25,27,32-45
+src/nimbus/components/decorative/Separator.astro
+  s_8ab5e11356c463::t_168995e793aa48 2-3,6-8,11-12,15-55,57-59,62-69,72-73,76-90
+src/nimbus/components/decorative/_id.ts
+  s_8ab5e11356c463::t_389d817f70880d 1-2,4-5
+src/nimbus/components/directory/Directory.astro
+  s_8ab5e11356c463::t_992d0cb234a326 28-34,38,45,50-51,57,59-61,66,68-72,74-99,101-112,114-123,125-135,137-195,199
+src/nimbus/components/directory/directory.client.ts
+  s_8ab5e11356c463::t_967d74bc2c5c7c 26-30,34-176
+src/nimbus/components/directory/grid.ts
+  s_8ab5e11356c463::t_c8fd34ea2a71a4 16-17,29-31,37-40,45,55-60,69,73-78
+src/nimbus/components/icons/CloudflareWordmark.tsx
+  s_8ab5e11356c463::t_730d503e52c93e 1-6,10-12,14-53,56
+src/nimbus/components/landing/AgentSetup.astro
+  s_8ab5e11356c463::t_2d773ba52973bb 16,35
+src/nimbus/components/landing/ChangelogSection.astro
+  s_8ab5e11356c463::t_14cfe5ef4137fb 140-143,173-176
+src/nimbus/components/landing/CommandBlock.astro
+  s_8ab5e11356c463::t_8fee42010f02bd 21,29,39,48
+src/nimbus/components/landing/FullPageLines.astro
+  s_8ab5e11356c463::t_65bdf833f787de 15,36
+src/nimbus/components/landing/Hero.astro
+  s_8ab5e11356c463::t_e5f9e7481d8c03 8,14
+src/nimbus/components/landing/Sidebar.astro
+  s_8ab5e11356c463::t_26828debc08935 45,50
+src/nimbus/components/landing/sidebar-data.ts
+  s_8ab5e11356c463::t_5095ab69fdbcf0 168,170-171
+src/nimbus/components/models/CopyableCode.astro
+  s_8ab5e11356c463::t_bbfaed778f6ce6 20,22-24,37
+src/nimbus/components/models/ModelBadges.astro
+  s_8ab5e11356c463::t_995282b7cbd7ef 12,18-21,26-27,35-52,59-70
+src/nimbus/components/models/ModelCard.astro
+  s_8ab5e11356c463::t_6fecb1c171420c 9-10,12,17-24,28-31,37-38,49-57,59-64,66-119,121-128,130-134,136-137
+src/nimbus/components/models/ModelCatalog.astro
+  s_8ab5e11356c463::t_99546647ff1c04 5-16,19,24-25,34-58
+src/nimbus/components/models/ModelDetailPage.astro
+  s_8ab5e11356c463::t_ad825130b980d2 16-17,33-35,50-52,59-61,72-102,115,117-127,132-133,135,145-148,154-156,159,170-177,185-196,201-202,210-214,219-228,230-321,325-625
+src/nimbus/components/models/ModelFeatures.astro
+  s_8ab5e11356c463::t_8696b32761cb40 75-77
+src/nimbus/components/models/ModelFilters.tsx
+  s_8ab5e11356c463::t_7447cab8995dd4 1-17,22-27,34-75,92-94,112,114-115,132,138,142,151,153,158,184,202,207,212,224-226,228-232,234,236,238,240-329,332-336,339-344,346-347,349-351,354,357,359-360,362-364,366,368-381,385,388,391,405,407-409,413,415,417-423,425,430-432,434-435,440-441,449
+src/nimbus/components/models/OutputBody.astro
+  s_8ab5e11356c463::t_1420124904811c 28,31-35
+src/nimbus/components/models/SchemaDisplay.astro
+  s_8ab5e11356c463::t_b3788f9e7b2b9c 419
+src/nimbus/components/models/SchemaTree.tsx
+  s_8ab5e11356c463::t_12e2a21bb1137e 40,98,101,103,148,152-153,168,178,182,185,190,208,240,245-246,261,271,284,286,291,298,304,413,418,422-423
+src/nimbus/components/models/SchemaVariantSelector.tsx
+  s_8ab5e11356c463::t_18a729007d1631 77
+src/nimbus/components/react/FeedbackPrompt.tsx
+  s_8ab5e11356c463::t_dee098039a697e 45,55,109,118-119,130,140,150,170
+src/nimbus/components/react/SubtractIPCalculator.tsx
+  s_8ab5e11356c463::t_900dd4fb4d692f 70,73,85,108,115
+src/nimbus/components/react/diagram-showcase/AgentPrimitivesDiagram.tsx
+  s_8ab5e11356c463::t_7d737d5a64d488 5-10,13-18,38-45,55-77,82-87,92-110,118-125,129-138,143-152,161-430
+src/nimbus/components/react/diagram/ActionBar.tsx
+  s_8ab5e11356c463::t_24b5f6cd1d2ea5 7-8,13-15
+src/nimbus/components/react/diagram/ActionButton.tsx
+  s_8ab5e11356c463::t_1d1656279be0d5 7-17,27-33,35-59
+src/nimbus/components/react/diagram/CardBadge.tsx
+  s_8ab5e11356c463::t_9fdb9b27c3a244 9-13,17-40
+src/nimbus/components/react/diagram/ChipGroup.tsx
+  s_8ab5e11356c463::t_b397a6abc08dee 7-8,12-18,23-27,29-30,32-33,35-68
+src/nimbus/components/react/diagram/DiagramControls.tsx
+  s_8ab5e11356c463::t_4f8349c7adab8a 10-19,33-38,40-41,43-71
+src/nimbus/components/react/diagram/DiagramDebug.tsx
+  s_8ab5e11356c463::t_51c4552ea911ea 11-54
+src/nimbus/components/react/diagram/DiagramDefs.tsx
+  s_8ab5e11356c463::t_f69db951a3d866 18-64
+src/nimbus/components/react/diagram/DiagramPauseAll.tsx
+  s_8ab5e11356c463::t_d6dba3efb160a2 9-14,17-18,31-39,41-52
+src/nimbus/components/react/diagram/DiagramStage.tsx
+  s_8ab5e11356c463::t_194b58ead35bf5 7-10,18-33,59-61
+src/nimbus/components/react/diagram/Tabs.tsx
+  s_8ab5e11356c463::t_a75f59f84912b8 3,9-15,26-31,33-34,36-37,39,41,43-110
+src/nimbus/components/react/diagram/scene.tsx
+  s_8ab5e11356c463::t_b7ea04c8915785 5-14,36-37,41-47,51-57,61-68,72-74,78-82,84-233,236-240,245-246,248-254
+src/nimbus/components/react/diagram/welding.ts
+  s_8ab5e11356c463::t_350d63dccb1e3b 31-38,45-48,64-72,81-153,160-171,180-187,192
+src/nimbus/components/ui/aside/Aside.astro
+  s_8ab5e11356c463::t_4f70a4d9995ed6 7-8,14-33,41-48,50-65,69-72,74-83,85-94,96-108,110-113
+src/nimbus/components/ui/badge/Badge.astro
+  s_8ab5e11356c463::t_435841f7b4cf75 6-16,19-25,29-36,40-42,47-53,55
+src/nimbus/components/ui/banner/Banner.astro
+  s_8ab5e11356c463::t_cdd15612885d30 11-13,16-22,25-28,32-35,43-55,57-71,75,79-82,84-93,95-102
+src/nimbus/components/ui/banner/banner.client.ts
+  s_8ab5e11356c463::t_7df5b62c7781a5 11-46
+src/nimbus/components/ui/breadcrumbs/Breadcrumbs.astro
+  s_8ab5e11356c463::t_82103a9ea2be71 7-9,14,16-17,19-21,25-68,70-98,100-137
+src/nimbus/components/ui/button/Button.astro
+  s_8ab5e11356c463::t_5c8995b6e55c32 26-30,34-40,44-52,57-61,63-73
+src/nimbus/components/ui/button/index.ts
+  s_8ab5e11356c463::t_03bb183edeeca8 3-12
+src/nimbus/components/ui/button/variants.ts
+  s_8ab5e11356c463::t_d5596e2741d466 13-18,25,28-36,41-44,49-52,56-59,63-65,70-72,74-80
+src/nimbus/components/ui/card-grid/CardGrid.astro
+  s_8ab5e11356c463::t_b0d605bdcfae10 11-15,17
+src/nimbus/components/ui/card/Card.astro
+  s_8ab5e11356c463::t_2cdea1260bf301 2-14,17,21-28,31-38,41-81
+src/nimbus/components/ui/checkbox/Checkbox.astro
+  s_8ab5e11356c463::t_c93c018d3133d2 25-32,36-44,52-57,59-83,88-93
+src/nimbus/components/ui/checkbox/CheckboxGroup.astro
+  s_8ab5e11356c463::t_f2acb9cab7a9a2 19-29,33-38,43-62
+src/nimbus/components/ui/checkbox/index.ts
+  s_8ab5e11356c463::t_a4eb3864f227b9 4-7
+src/nimbus/components/ui/checkbox/variants.ts
+  s_8ab5e11356c463::t_ed980e456d53b4 21,25-28,32,34
+src/nimbus/components/ui/code/Code.astro
+  s_8ab5e11356c463::t_3a104198b66546 13-14,16-21,24-28
+src/nimbus/components/ui/collapsible/Collapsible.astro
+  s_8ab5e11356c463::t_48159fb7466443 7-8,15-18,20,24
+src/nimbus/components/ui/collapsible/CollapsibleContent.astro
+  s_8ab5e11356c463::t_1267755f730cb2 9,14-17
+src/nimbus/components/ui/collapsible/CollapsibleTrigger.astro
+  s_8ab5e11356c463::t_d37fc17a6f8ae7 9,15-18,20
+src/nimbus/components/ui/collapsible/collapsible.client.ts
+  s_8ab5e11356c463::t_03fd65c0d1c7ce 6-8,12-33
+src/nimbus/components/ui/combobox/Combobox.astro
+  s_8ab5e11356c463::t_3a293529ea4020 37-58,62-76,87-89,93-95,100-103,105-118,120-144,146-157,159-170,172-196,198-208,210-222,226
+src/nimbus/components/ui/combobox/ComboboxGroup.astro
+  s_8ab5e11356c463::t_da27edd12484e3 10,17-22,24
+src/nimbus/components/ui/combobox/ComboboxGroupLabel.astro
+  s_8ab5e11356c463::t_b1072ca5974670 9,16-20,22
+src/nimbus/components/ui/combobox/ComboboxOption.astro
+  s_8ab5e11356c463::t_e5c7e0dcd53455 11-14,21-31,33-39
+src/nimbus/components/ui/combobox/combobox.client.ts
+  s_8ab5e11356c463::t_2583ce47d7e55c 16-31,33-39,41-43,45-46,48-53,55-59,61-63,65-75,77-100,102-110,112-125,127-139,141-163,165-170,172-179,181-189,191-193,195-200,202-207,209-253,255-263,265-267,269-274,276-281,283-289,291-295,297-306
+src/nimbus/components/ui/dialog/Dialog.astro
+  s_8ab5e11356c463::t_0071fb2540ba05 18,24-29,31,35-61
+src/nimbus/components/ui/dialog/DialogClose.astro
+  s_8ab5e11356c463::t_821ca260dadaee 9,14-15,19-24,26-32
+src/nimbus/components/ui/dialog/DialogContent.astro
+  s_8ab5e11356c463::t_5878615e79d679 9,14-23
+src/nimbus/components/ui/file-tree/FileTree.astro
+  s_8ab5e11356c463::t_b291280bdd8d13 24,30-39,43-182,186-304
+src/nimbus/components/ui/layer-card/LayerCard.astro
+  s_8ab5e11356c463::t_c6b84cbfe291d1 13,19-23,25
+src/nimbus/components/ui/layer-card/LayerCardContent.astro
+  s_8ab5e11356c463::t_eca5b2152671a1 6,12-16,18
+src/nimbus/components/ui/layer-card/LayerCardHeader.astro
+  s_8ab5e11356c463::t_5499cf39042c40 6,12-16,18
+src/nimbus/components/ui/link-button/LinkButton.astro
+  s_8ab5e11356c463::t_304f5fa37a0211 21-25,29-37,41-47,51-52,57-63,65-76
+src/nimbus/components/ui/package-managers/PackageManagers.astro
+  s_8ab5e11356c463::t_37eae3a8abec49 8-9,13-15,20-21,26-55,59-80,82-125,129
+src/nimbus/components/ui/package-managers/package-managers.client.ts
+  s_8ab5e11356c463::t_e4cd377d0ba86e 9,13-66
+src/nimbus/components/ui/page-actions/PageActionLinks.astro
+  s_8ab5e11356c463::t_b774651c84c341 5,11,15-31
+src/nimbus/components/ui/page-actions/PageActions.astro
+  s_8ab5e11356c463::t_ff60b1dd61b9e6 7,10,13,18-23,25-28,32-37,39-55,57-70,72,74-84,86,88-98,102
+src/nimbus/components/ui/page-actions/page-actions.client.ts
+  s_8ab5e11356c463::t_aecd73bda05d28 2-3,5-17,19-122
+src/nimbus/components/ui/pagination/Pagination.astro
+  s_8ab5e11356c463::t_79c952d53da423 8,15-61
+src/nimbus/components/ui/scroll-to-top/ScrollToTop.astro
+  s_8ab5e11356c463::t_d51ba0e466dc51 7-10,12-28,32-40
+src/nimbus/components/ui/search/DocSearch.astro
+  s_8ab5e11356c463::t_90b85ed7c4eb0e 11-31,35,37-44,46-49,51-54,56-60,62-66,68-71,73-78,80-84,86-115,117-153,155-173,177-178,180-186,188-195,197-212,214-216
+src/nimbus/components/ui/search/docsearch-config.ts
+  s_8ab5e11356c463::t_f5503783b5ec0e 4-5
+src/nimbus/components/ui/sidebar/Sidebar.astro
+  s_8ab5e11356c463::t_5832d70b6d9eb4 15-17,25-29,31-67,71,75-77
+src/nimbus/components/ui/sidebar/SidebarFilter.astro
+  s_8ab5e11356c463::t_56088f09148cbf 7,11-13,17-34
+src/nimbus/components/ui/sidebar/SidebarGroup.astro
+  s_8ab5e11356c463::t_bf6546d339925f 21-25,31-40,44-52,56-62,66-68,72-75,77-138,140-174,178,189-191
+src/nimbus/components/ui/sidebar/SidebarLink.astro
+  s_8ab5e11356c463::t_8b441c059ddf5e 8-11,14-21,25-29,31-39
+src/nimbus/components/ui/sidebar/SidebarProductNav.astro
+  s_8ab5e11356c463::t_f4610a2874f232 10-16,23-40
+src/nimbus/components/ui/sidebar/SidebarStateRestore.astro
+  s_8ab5e11356c463::t_a1c2cb2a493f1d 2-12,14-21,23-59,61-73
+src/nimbus/components/ui/sidebar/index.ts
+  s_8ab5e11356c463::t_a8bf635ed87e5d 6
+src/nimbus/components/ui/sidebar/sidebar.client.ts
+  s_8ab5e11356c463::t_e799e096be8833 8-10,14-15,17-18,20-23,25,33-73,77-93,97-121,125-132,136-142,150-207,215-245
+src/nimbus/components/ui/steps/Step.astro
+  s_8ab5e11356c463::t_af19bc1095c816 15,22-27
+src/nimbus/components/ui/steps/Steps.astro
+  s_8ab5e11356c463::t_b27788c0168057 10,17-20,22,26,30-34,36-41,43,45-53,55-58,60-64,66-84,86-96,98-100,102-104
+src/nimbus/components/ui/steps/steps.client.ts
+  s_8ab5e11356c463::t_9ce05fa5acdc1e 12-13,15-17
+src/nimbus/components/ui/tabs/TabItem.astro
+  s_8ab5e11356c463::t_88456a30cd807b 12,18,23-27,29
+src/nimbus/components/ui/tabs/Tabs.astro
+  s_8ab5e11356c463::t_42033e7c43c778 15-16,22-26,30
+src/nimbus/components/ui/tabs/TabsContent.astro
+  s_8ab5e11356c463::t_6e2fc7675131bd 9-10,17-21,23
+src/nimbus/components/ui/tabs/TabsList.astro
+  s_8ab5e11356c463::t_fd6a4240845d5a 9,15-18,20-24
+src/nimbus/components/ui/tabs/TabsTrigger.astro
+  s_8ab5e11356c463::t_0413dd4905b76a 10-11,18-28,30
+src/nimbus/components/ui/tabs/tabs.client.ts
+  s_8ab5e11356c463::t_e618d4bf6b1f50 6,11-16,18-23,25-30,32-39,41-46,48-54,56-63,65-73
+src/nimbus/components/ui/theme-toggle/ThemeToggle.astro
+  s_8ab5e11356c463::t_13a0d18619e50b 13,19-25,27-28,30-43,47
+src/nimbus/components/ui/theme-toggle/theme-toggle.client.ts
+  s_8ab5e11356c463::t_8d68c4452a4eb8 13-15,22-28,34-38,42-44,46-57,59-62
+src/nimbus/components/ui/toc/MobileTOC.astro
+  s_8ab5e11356c463::t_7df4e6edc881ea 2-13,15-17,19-20,23,25,28-34,36-47,49-51,53-55,57-59
+src/nimbus/components/ui/toc/TOC.astro
+  s_8ab5e11356c463::t_b46398e07df350 12,18-19,24-39,41-48,50-102,106
+src/nimbus/components/ui/toc/index.ts
+  s_8ab5e11356c463::t_4072d4baa20f78 2
+src/nimbus/components/ui/toc/mobile-toc.client.ts
+  s_8ab5e11356c463::t_82805ad1c87281 1-30,33-55,58-74,76-85,88-98,101-112,115-135,138
+src/nimbus/components/ui/toc/toc.client.ts
+  s_8ab5e11356c463::t_408874db5a9905 14-327
+src/nimbus/content.config.ts
+  s_8ab5e11356c463::t_23424c537c9619 31-39,41-43,45-46,48-70,72-403,405-408,410-413,415-417,419-421,423-426,428-434,436-442,444-449
+src/nimbus/layouts/BaseLayout.astro
+  s_8ab5e11356c463::t_4e9430678518c1 19-22,26-36,48-51,53-56,58-59,64-66,68-78,80-87,89-100,102-105,107-112,114-130,132-143,145-147,149-171,173-183,185-187
+src/nimbus/layouts/ChangelogLayout.astro
+  s_8ab5e11356c463::t_89b8a61467ab20 20,23,26-27,30-48,52-54,56-57,60-61,63-68,70-71,73-86,88-93,95-125,128-131,133-135,137,139-145
+src/nimbus/layouts/DocsLayout.astro
+  s_8ab5e11356c463::t_acc073ec468e76 13-19,29-33,35,37,41-47,50-75,79-87,95-98,106-109,113,116-120,135-159,161-211,213-214,216-269,271-335,337-369,371-418,420
+src/nimbus/layouts/SplashLayout.astro
+  s_8ab5e11356c463::t_3ca2c3daf70259 15,20-25
+src/nimbus/lib/cn.ts
+  s_8ab5e11356c463::t_fd684deb4f60f0 6
+src/nimbus/mdx-components.ts
+  s_8ab5e11356c463::t_2f761086ad007d 51-53,55-101
+src/nimbus/pages/404.astro
+  s_8ab5e11356c463::t_0a760015d8cfe9 11-16
+src/nimbus/pages/[...changelog].xml.ts
+  s_8ab5e11356c463::t_52efa71ff7049d 24-40,44-141
+src/nimbus/pages/[...product]/llms.txt.ts
+  s_8ab5e11356c463::t_74bcf97c767883 112-113
+src/nimbus/pages/[...slug].astro
+  s_8ab5e11356c463::t_2dfc4ba332d5f2 5-11,16,34-36,38-40,43-47,50-54,56-57,60-64,67,70-71,73-76,85-86,88-90,94,100-101,103-109,113-148,150
+src/nimbus/pages/[product]/404.astro
+  s_8ab5e11356c463::t_22fcbb72b7d697 13-15,17-23,30-31,36-44,46-48
+src/nimbus/pages/agent-setup/index.astro
+  s_8ab5e11356c463::t_aadc81855eca29 22-23,25-34,36-41,43-47,49,51-57,59-68
+src/nimbus/pages/ai/models/[...name].astro
+  s_8ab5e11356c463::t_f7a46460afa459 20-24,28-29
+src/nimbus/pages/ai/models/[...schema].json.ts
+  s_8ab5e11356c463::t_2761ed6e39e2dc 14-16,18-20,22-43,45
+src/nimbus/pages/ai/models/index.astro
+  s_8ab5e11356c463::t_feed419342e19f 12,21-24,29-36,38-39
+src/nimbus/pages/changelog/[...page].astro
+  s_8ab5e11356c463::t_6f8ed06c94bb9e 21-23,25,33-40
+src/nimbus/pages/changelog/post/[...slug].astro
+  s_8ab5e11356c463::t_cb68608eaa6983 16,21-22,24-27,34,40-43,50-62,64-68,70-71,73-85,87-99,101-107,109-113
+src/nimbus/pages/changelog/product-group/[group]/[...page].astro
+  s_8ab5e11356c463::t_c55f8afb468b47 21-39,47-54
+src/nimbus/pages/changelog/product/[product]/[...page].astro
+  s_8ab5e11356c463::t_f42f9d0cafdd10 20-37,49-56
+src/nimbus/pages/changelog/rss/[area].xml.ts
+  s_8ab5e11356c463::t_9965d26cf05952 13-16,24-40,47-62
+src/nimbus/pages/changelog/rss/[product].xml.ts
+  s_8ab5e11356c463::t_81edeadf1d6a24 11-14,20-27,34-36,38-53
+src/nimbus/pages/changelog/rss/index.xml.ts
+  s_8ab5e11356c463::t_2e02da3054a8ad 13-15,17,19-24
+src/nimbus/pages/directory.astro
+  s_8ab5e11356c463::t_2532b1fff4d7a6 22-25,29-34,36-45,49-50,52-57
+src/nimbus/pages/glossary.astro
+  s_8ab5e11356c463::t_2caf1be47efed7 21-28,30-34
+src/nimbus/pages/index.astro
+  s_8ab5e11356c463::t_e5644d19e70a68 16,24-26,28-29,31-55,57-74,76-94,96-171
+src/nimbus/pages/llms.txt.ts
+  s_8ab5e11356c463::t_a6f7559c874efd 49-51
+src/nimbus/pages/plans.astro
+  s_8ab5e11356c463::t_8bb5ca49f4acb2 34-148
+src/nimbus/pages/resources/index.astro
+  s_8ab5e11356c463::t_56c8213c588a3a 21-22,24-33,35-56
+src/nimbus/pages/ruleset-engine/rules-language/fields/reference/[name].astro
+  s_8ab5e11356c463::t_c3bdbc95d09645 45-48,64-65
+src/nimbus/pages/ruleset-engine/rules-language/fields/reference/index.astro
+  s_8ab5e11356c463::t_5458f77a85b0ff 22-25,30-36,38-39
+src/nimbus/pages/sponsorships.astro
+  s_8ab5e11356c463::t_a91164f1355d9d 20-72,74-124,126-229,231-273,275-329,331-384,386-428,430-479,481-531,533-574,576-666,668-713,715-886,888-977,979-1028,1030-1128,1130-1177,1179-1222,1224-1298,1300-1346,1348-1393,1395-1438,1440-1487,1489-1534,1536-1582
+src/nimbus/pages/videos/[...slug].astro
+  s_8ab5e11356c463::t_ca646a27a09777 15,17-22,31-41,45-59,61-79
+src/nimbus/pages/videos/index.astro
+  s_8ab5e11356c463::t_13dd002309ed5b 12-15,17-21
+src/nimbus/pages/waf/change-log/changelog/[...page].astro
+  s_8ab5e11356c463::t_08ee06c82e8d42 36-39,52
+src/nimbus/pages/workers-ai/models/[...name].astro
+  s_8ab5e11356c463::t_fd479ff58fda03 16-20,24-25
+src/nimbus/pages/workers-ai/models/[...schema].json.ts
+  s_8ab5e11356c463::t_c4fa73e1d3112e 14-16,18-20,22-43,45
+src/nimbus/pages/workers-ai/models/index.astro
+  s_8ab5e11356c463::t_35483389bec32e 5,15-16,22-29,31-38
+src/nimbus/plugins/satteri/autolink-headings.ts
+  s_8ab5e11356c463::t_dcbfaa22737d0e 8-30,34-40,42-47,49-69
+src/nimbus/plugins/satteri/empty-table-headers.ts
+  s_8ab5e11356c463::t_321b6b8aec3988 10-20
+src/nimbus/plugins/satteri/heading-slugs.ts
+  s_8ab5e11356c463::t_6ae33aaaf3385d 10-13,19-20,24,26-33,35-42,44-51,53-66,68-78
+src/nimbus/plugins/satteri/index.ts
+  s_8ab5e11356c463::t_71c1ceded8eb3f 19-24,28-35
+src/nimbus/plugins/satteri/mermaid.ts
+  s_8ab5e11356c463::t_7ada2a8c370f53 12-28,32-38,40-48
+src/nimbus/plugins/satteri/pipeline.node.test.ts
+  s_8ab5e11356c463::t_c285cc7ed9eec7 7-15,19-21,24-48,52-280
+src/nimbus/plugins/satteri/shift-headings.ts
+  s_8ab5e11356c463::t_a1545029b43405 11-16,18-19,21-25,27-28,30-38
+src/nimbus/plugins/satteri/table-scroll.ts
+  s_8ab5e11356c463::t_fd90f8a64756e7 11-30
+src/nimbus/plugins/satteri/types.ts
+  s_8ab5e11356c463::t_92b4afd26aa926 1,10-11,13-17,21-24
+src/nimbus/scripts/analytics/docsearch.ts
+  s_8ab5e11356c463::t_689ea399eae866 6-10
+src/nimbus/scripts/image-zoom.client.ts
+  s_8ab5e11356c463::t_1182111b3813c5 12-15,22,25-33,37-44,48,52,56-58,62-99,105-113
+src/nimbus/scripts/mermaid.client.ts
+  s_8ab5e11356c463::t_e649e92120ddef 12-15,19,21-23,32-61,65-92,96-98,102,106-109,113-116,120-123,127-129,133-141,145-147,149-150,152-153,155-158,164-183,187-285,289-300
+src/nimbus/scripts/mobile-sidebar.client.ts
+  s_8ab5e11356c463::t_6bdc392d4a5e76 8-206,210-211,215-216
+src/nimbus/scripts/scroll-to-top.client.ts
+  s_8ab5e11356c463::t_0167e3d35af837 21-23
+src/nimbus/scripts/table-scroll.client.ts
+  s_8ab5e11356c463::t_18653c662235be 12-17,19-23,25-27
+src/nimbus/styles/agent-setup-tokens.css
+  s_8ab5e11356c463::t_56d2ed12d9f2ef 8-111,113-129,131-140,144-161
+src/nimbus/styles/globals.css
+  s_8ab5e11356c463::t_67e8459e737797 47-48,50,82-89,101,132,140,165-171,220-228,237-238,261-297,306-308,412-413,655-657,710-712,741,745-749,758,760-761,767-775,777-779,781-787,790-793,797-803,806-808,811,837,840
+src/nimbus/styles/markdown-pipeline.css
+  s_8ab5e11356c463::t_654d288e630c20 14-25,28,30
+src/nimbus/styles/prose.css
+  s_8ab5e11356c463::t_e83e0ec8e33817 10-14,17-18,20,23-25,27-30,32-35,37-39,41-43,45-47,49,51-70,72-75,77,82-141,145-146,148,150-172,176-191,197-276
+src/nimbus/tsconfig.json
+  s_8ab5e11356c463::t_12ac706100c6e2 16
+src/nimbus/util/api.ts
+  s_8ab5e11356c463::t_b45d798dcca561 22-26,28-29,31
+src/nimbus/util/changelog.ts
+  s_8ab5e11356c463::t_b67c102cf914a0 15-18,30-99,103,107,109-151,158-162,171-174,178-179,183-184,186-206
+src/nimbus/util/container.ts
+  s_8ab5e11356c463::t_4b4f7c3d496db3 23-24,26-28,30-35,37,39-46,48
+src/nimbus/util/description.node.test.ts
+  s_8ab5e11356c463::t_cc1b99d2f0dcfd 3-6,8-19,21-25,27-30,33-37,39-42,44-49,51-54
+src/nimbus/util/description.ts
+  s_8ab5e11356c463::t_82a1313f58e22f 5,7-8,10,12,14,16-19,22-27,29
+src/nimbus/util/directory.ts
+  s_8ab5e11356c463::t_d5ea2ef1949ed3 13-27,31-38
+src/nimbus/util/footer.ts
+  s_8ab5e11356c463::t_5a9b56e2cfe15d 1-4,6-9,11-29,31-52,55-66,69-88,91-114,117-132,135-143,146-172,175-191,193-199
+src/nimbus/util/learning-paths-sidebar.astro.test.ts
+  s_8ab5e11356c463::t_f6d3424b183cc7 1,3-7,9,11-30,33-98
+src/nimbus/util/models/facets.ts
+  s_8ab5e11356c463::t_8cb2e10f5febd7 9-19,23-26,35-38,42,49-60,65-70,74-77,79-83,85-90,92-93,95-102
+src/nimbus/util/models/model-helpers.ts
+  s_8ab5e11356c463::t_3e0eaf021844ba 7-13
+src/nimbus/util/models/model-properties.ts
+  s_8ab5e11356c463::t_af275ff43d36c4 8-9,11-18,26-27,29-37
+src/nimbus/util/models/model-resolver.ts
+  s_8ab5e11356c463::t_622d580cf748e3 15-18,30,33-50,52-81,91-142,147-175,183-203,211-222,227-228
+src/nimbus/util/models/model-schema.ts
+  s_8ab5e11356c463::t_09a2f0492bde6d 5-6,15-16,18-19,21-26,28,30-36,38-48,50-73,75-88,90,100,102-105,107-110,112-113
+src/nimbus/util/models/model-types.ts
+  s_8ab5e11356c463::t_b10e7820991f38 5-7,15-20,25-28,33-37,42-81
+src/nimbus/util/og.ts
+  s_8ab5e11356c463::t_a71bbe86cc93d8 1,3,6-8
+src/nimbus/util/page-head.node.test.ts
+  s_8ab5e11356c463::t_6c7cdda17f235a 4-9,13-15,18-26,28-33,37-56,58-76,80-96,100-111,113-121,123-132,134-142,146-152,154-160,162-171,173-177,181-187,189-191,193-199,201-207,209-214,216-233,235-243,245-252,254-270
+src/nimbus/util/page-head.ts
+  s_8ab5e11356c463::t_022b7c730f009a 10-13,15-18,20-23,28-29,31-36,39,41,43-44,46-49,51-54,56-65,71-72,74-76,80-82,89,91-101,105-114,121-130,132-156
+src/nimbus/util/release-notes.ts
+  s_8ab5e11356c463::t_8177e57f811179 16-17,19-61
+src/nimbus/util/sidebar.astro.test.ts
+  s_8ab5e11356c463::t_39dfe71f2dcc91 3-4,6,8-12,15-29,32-38,41-44,47-59,62-67
+src/nimbus/util/sidebar.ts
+  s_8ab5e11356c463::t_1e8c7825b0dd6e 1-2,6-11,13-21,23-24,27,30-34,38,41,43-45,48-49,51-52,54-55,57-65,70-71,73-76,81,83-86,91-97,102-139,142-188,192-194,197-198,200-231,234,236,239-241,243-257,260-261,263-266,273-287,290-291,293-294,296-309,312-313,315-320
+src/nimbus/util/url.ts
+  s_8ab5e11356c463::t_bfa608c25c5c10 5-6,8-11,13-17
+src/plugins/docsearch/index.ts
+  s_8ab5e11356c463::t_7e0181aa25a272 1,7-12
+src/scripts/webmcp.ts
+  s_8ab5e11356c463::t_11a529940e67f9 6-10
+src/util/package-managers.node.test.ts
+  s_8ab5e11356c463::t_7f056cd2867352 1,3,5-16,18-27,29-39,41-44,46,48-50,52-59,61-65,67-79,81
+src/util/warp-platforms.json
+  s_8ab5e11356c463::t_549ef4c9e09cbf 121-124
+tsconfig.json
+  s_8ab5e11356c463::t_a7095e6b649396 13
+worker/index.preview.ts
+  s_8ab5e11356c463::t_00a5cf647c4ba5 1-2,4-5,8
+worker/index.worker.test.ts
+  s_8ab5e11356c463::t_06d7e9fb378de6 203
+wrangler.preview.json
+  s_8ab5e11356c463::t_16a305b2fb4549 12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7995c2d9e6d74eac77efe0df5daf2103e704f566",
+  "prompts": {},
+  "sessions": {
+    "s_8ab5e11356c463": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_148cd6efeffeT1m2QRU34o0Zhu",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Jules Lemee <jules@cloudflare.com>"
+    }
+  }
+}
